@@ -38,4 +38,3 @@ dzieki `print("siema")` wyswietli sie siema
 
 ![HARIBO](haribo.jpg)
 
-==wartosc==
